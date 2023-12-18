@@ -1182,7 +1182,8 @@ p {
             padding: 5px 8px;
             color: #fff; }
   .single-team .team-content {
-    padding: 20px; }
+    padding: 20px;
+    text-align: center; }
     .single-team .team-content .holder-name a {
       font-size: 20px;
       font-weight: 700;
