@@ -1182,8 +1182,7 @@ p {
             padding: 5px 8px;
             color: #fff; }
   .single-team .team-content {
-    padding: 20px;
-    text-align: center; }
+    padding: 20px;}
     .single-team .team-content .holder-name a {
       font-size: 20px;
       font-weight: 700;
@@ -1193,7 +1192,8 @@ p {
         font-size: 16px; }
     }
     .single-team .team-content .text {
-      margin-top: 5px; }
+      margin-top: 5px; 
+    text-align: center; }
     @media (max-width: 576px) {
       .single-team .team-content .text {
         font-size: .7em;
