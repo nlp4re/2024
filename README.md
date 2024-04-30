@@ -23,6 +23,7 @@ The website is broken up into sections. Here is a brief description of each, wit
   - This is perhaps the most finicky section. Choosing the icons for contact and socials, as well as sizing the people such that they fit nicely on most screen sizes. It is recommended to keep the settings as they currently are. If you have more or less people, you will have to play with how many people are in each "row".
   - The available contact icons are not so many. You can search the CSS for a full list, but there are also a set of commented-out icon names available at the top of the organisation section.
   - The Program Committee is easy to change. You just need the names and affiliations of each member, and set them between the `li` tags. This is easy to automate with a simple text-editor and some hotkeys to paste the `li`s at the beginning and end.
+  - The Steering Committee should be changed (when necessary) according to the same process as for the program committee.
   - The Past Years footer should be updated to include THIS year, after the existing years. This is an easy copy-paste and change of the URL.
 
 Other Notes
